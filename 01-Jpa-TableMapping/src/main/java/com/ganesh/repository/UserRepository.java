@@ -1,6 +1,6 @@
 package com.ganesh.repository;
 
-//import java.io.Serializable;
+import java.io.Serializable;
 
 import org.springframework.data.repository.CrudRepository;
 
